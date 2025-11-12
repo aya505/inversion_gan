@@ -77,10 +77,10 @@ If you find this useful, please cite the repo. A minimal BibTeX entry:
 
 ```bibtex
 @software{seismic_inversion_gan,
-  title        = {Seismic Impedance Inversion with 3D cGAN},
-  author       = {Abreham Yacob Abreham},
-  year         = {2025},
-  url          = {https://github.com/aya505/}
+  title        = Seismic Impedance Inversion with 3D cGAN,
+  author       = Abreham Yacob Abreham,
+  year         = 2025,
+  url          = https://github.com/aya505/
 }
 ```
 
